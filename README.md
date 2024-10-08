@@ -1,6 +1,6 @@
 - 👋 Hi, I’m gurdeep
 - 👀 I’m interested in hacking, programming, physics and math
-- 🌱 I’m currently learning Blockchain technology
+- 🌱 I’m currently working as Senior Software Engineer at HCode Technologies
 - 💞️ I’m looking to collaborate on browsers, operating system and anything intresting
 - 📫 How to reach me : gurdeeps158@gmail.com
 
